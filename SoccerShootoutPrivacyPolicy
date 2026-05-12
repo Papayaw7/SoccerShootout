@@ -1,0 +1,41 @@
+Privacy Policy for Soccer Shootout
+Effective Date: May 12, 2026
+
+This Privacy Policy explains how Soccer Shootout ("the Game," "we," "us," or "our") manages information and permissions on Meta Quest devices. We are committed to protecting user privacy while providing an immersive VR goalkeeping experience.
+
+1. Permissions and Data Usage
+The Game requests specific Android permissions. We use these only for the following functional purposes:
+
+Camera Access: Used exclusively for Passthrough and Mixed Reality features. This allows players to see their physical environment while playing to ensure safety and prevent collisions with real-world objects during gameplay. We do not record or transmit raw camera imagery.
+
+Storage & Media (Images, Video, Audio): These permissions are requested to allow for local game personalization. This includes the ability for players to import custom team logos, jersey designs, or background music from their headset’s local storage.
+
+Photos & Videos: Enables the Game to save high-score screenshots or gameplay highlights directly to your device gallery.
+
+Location Metadata: Used only as part of standard media file properties when saving screenshots locally to ensure file system integrity.
+
+2. Data Collection and Transmission
+No Personal Data Collection: We do not collect, store, or transmit personally identifiable information (PII) such as names, email addresses, or contact details.
+
+Local Storage: All gameplay data, including your "catches" count, high scores, and customized settings, is stored locally on your Meta Quest headset.
+
+No Third-Party Sharing: We do not sell or share your personal media or data with third parties.
+
+3. Third-Party Services (Meta/Unity)
+The Game is built using the Unity engine and runs on the Meta Horizon platform. These platforms may collect anonymized technical data (such as device model, OS version, and crash reports) to help us maintain game performance. Please refer to Meta’s Supplemental Data Policy and Unity’s Privacy Policy for more details on their data handling.
+
+4. Children’s Privacy
+Soccer Shootout is designed for a general audience. We do not knowingly collect any personal information from children under the age of 13 (or the applicable age in your jurisdiction).
+
+5. Changes to This Policy
+We may update this Privacy Policy from time to time to reflect changes in the Game or legal requirements. The "Effective Date" at the top will indicate when the last changes were made.
+
+6. Contact Information
+For questions regarding this Privacy Policy or the technical permissions used in Soccer Shootout, please contact the development team through the Meta Store developer contact link.
+
+Meta Store Submission Tips:
+URL Requirement: Meta requires a live link. If you don't have a website, paste this text into a Google Doc, click Share, set it to "Anyone with the link can view," and use that URL.
+
+Data Use Checkup: When Meta asks about the "Camera" permission in the Developer Dashboard, select "App Functionality" and "User Safety" as the justifications.
+
+Permissions: Since you aren't removing the code for the extra media permissions, ensure you check the boxes for "Read Media" in the Meta "Data Use Checkup" to avoid a build rejection.
