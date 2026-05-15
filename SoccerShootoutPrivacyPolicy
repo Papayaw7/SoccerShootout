@@ -33,9 +33,3 @@ We may update this Privacy Policy from time to time to reflect changes in the Ga
 6. Contact Information
 For questions regarding this Privacy Policy or the technical permissions used in Soccer Shootout, please contact the development team through the Meta Store developer contact link.
 
-Meta Store Submission Tips:
-URL Requirement: Meta requires a live link. If you don't have a website, paste this text into a Google Doc, click Share, set it to "Anyone with the link can view," and use that URL.
-
-Data Use Checkup: When Meta asks about the "Camera" permission in the Developer Dashboard, select "App Functionality" and "User Safety" as the justifications.
-
-Permissions: Since you aren't removing the code for the extra media permissions, ensure you check the boxes for "Read Media" in the Meta "Data Use Checkup" to avoid a build rejection.
